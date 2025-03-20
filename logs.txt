@@ -1,0 +1,16 @@
+*   d3f0ba1 (HEAD -> master, origin/master, origin/HEAD) Resolved merge
+|\
+| * 0933d76 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Issue completed
+* |   bcda4a3 Merge pull request #11 from angelblazhevski/2-find-all-completed-tasks
+|\ \
+| * | 97dc5f4 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Issue completed
+| |/
+* |   e4befca Merge pull request #12 from angelblazhevski/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| * 5c38fd1 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Issue completed
+|/
+* c4d332e Add starter code
+* 731ba69 Initial commit
+* 76331b5 Initial commit
